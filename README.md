@@ -31,16 +31,20 @@ This aims to engage and orchestrate developers to add arabic/RTL supports for th
 # <div dir="rtl"> كيف يمكن إنتاج الكتب بالعربيّة؟</div>
 
 <p dir="rtl">
-في اللّغة الإنجليزية, هناك الكثير من وسائل إنتاج الكتب (book editing toolchain) التّي تساعد الكاتب على التركيز في مهمته الأهمّ و هي الكتابة و تعتني بمهمّة إنتاج الكتاب في عدّة أشكال (pdf, epub, html, etc). هذا له دور كبير في الإنتشار  الكبير لمصادر التعلّم باللغة الإنجليزية خاصّة و اللّغات الاّتينية عامّة. 
+في اللّغة الإنجليزية, هناك الكثير من وسائل إنتاج الكتب (book editing toolchain) التّي تساعد الكاتب على التركيز في مهمته الأهمّ و هي الكتابة و تعتني بمهمّة إنتاج الكتاب في عدّة أشكال (pdf, epub, html, etc). هذا له دور أساسي في الإنتشار  الكبير لمصادر التعلّم باللغة الإنجليزية خاصّة و اللّغات الاّتينية عامّة. 
   <p> 
 
 <p dir="rtl">
 القائمة التّالية تضع روابط للوسائل التي قد تساعد في تسهيل مهمّة إنتاج الكتب باللّغة العربيّة لو وقع إضافة الدّعم الاّزم لها:
 </p> 
 
-* https://asciidoctor.org 
-* https://github.com/ahmadajmi/markdown-arabic
-* http://www.methods.co.nz/asciidoc 
+<div dir="rtl"> 
+<ul>
+  <li> https://asciidoctor.org </li> 
+  <li>  https://github.com/ahmadajmi/markdown-arabic </li>
+<li> http://www.methods.co.nz/asciidoc </li>
+</ul> 
+</div> 
 
 # <div dir="rtl">  كيف تساهم في هذا المشروع؟ </div>
 <p dir="rtl">
@@ -48,4 +52,8 @@ This aims to engage and orchestrate developers to add arabic/RTL supports for th
   : 
   </p> 
 
-* https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ar.md   
+<div dir="rtl"> 
+<ul>
+  <li> https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ar.md </li>
+</ul> 
+</div> 
